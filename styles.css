@@ -1,7 +1,7 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    width: 480px;
-    height: 800px;
+    width: 800px;
+    height: 480px;
     margin: 0 auto;
     padding: 20px;
     background: white;
@@ -87,9 +87,6 @@ h1 {
 @media (max-width: 600px) {
     body {
         padding: 10px;
-    }
-
-    .train-card {
     }
 
     .time-display {
